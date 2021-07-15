@@ -1,1 +1,2 @@
 "# -Visvalingam-WhyattAlgorithm" 
+"# Visvalingam-Whyatt" 
